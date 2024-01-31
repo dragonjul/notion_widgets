@@ -1,0 +1,6 @@
+<!--Currency Converter widget by FreeCurrencyRates.com -->
+
+<div id='gcw_mainFNn5sRbvZ' class='gcw_mainFNn5sRbvZ'></div>
+<script>function reloadFNn5sRbvZ(){ var sc = document.getElementById('scFNn5sRbvZ');if (sc) sc.parentNode.removeChild(sc);sc = document.createElement('script');sc.type = 'text/javascript';sc.charset = 'UTF-8';sc.async = true;sc.id='scFNn5sRbvZ';sc.src = 'https://freecurrencyrates.com/en/widget-vertical-editable?iso=THB-AUD-USD-VND&df=2&p=FNn5sRbvZ&v=is&source=fcr&width=400&width_title=0&firstrowvalue=1.00&thm=666666,000000,333333,333333,FFFFFF,666666,555555,ffffff,ffffff&title=Currency%20Converter&tzo=-420';var div = document.getElementById('gcw_mainFNn5sRbvZ');div.parentNode.insertBefore(sc, div);} reloadFNn5sRbvZ(); </script>
+<!-- put custom styles here: .gcw_mainFNn5sRbvZ{}, .gcw_headerFNn5sRbvZ{}, .gcw_ratesFNn5sRbvZ{}, .gcw_sourceFNn5sRbvZ{} -->
+<!--End of Currency Converter widget by FreeCurrencyRates.com -->
